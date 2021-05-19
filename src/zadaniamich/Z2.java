@@ -5,6 +5,8 @@
  */
 package zadaniamich;
 
+import java.util.Scanner;
+
 /**
  *
  * @author mrmor
